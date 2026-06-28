@@ -1,1 +1,3 @@
-# Search-Weather-AI-Agent-using-LangChain
+python -m venv venv
+
+.\venv\Scripts\Activate.ps1
